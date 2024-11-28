@@ -4,14 +4,14 @@
 ```lua
 const Profile = {
   aboutme: {
-    name: ["Hex", "Jnezyzn._"],
+    name: ["Hex", "GenexisZ_."],
     age: 16,
     ability: ["lua", "java", "html", "python"] 
   },
   contact: {
-    youtube: "Jnezyzn._",
-    discord: "jnezyzn._"
-    x: "@Jnezyzn_"
+    youtube: "GenyxisZ_.",
+    discord: "genexisz_."
+    x: "@GenyxisZ_."
   }
 }
 
