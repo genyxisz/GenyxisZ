@@ -4,7 +4,7 @@
 ```lua
 const Profile = {
   aboutme: {
-    name: ["Hex", "GenexisZ_."],
+    name: ["Hex", "GenyxisZ_."],
     age: 16,
     ability: ["lua", "java", "html", "python"] 
   },
