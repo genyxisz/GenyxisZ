@@ -10,14 +10,14 @@ const Profile = {
   },
   contact: {
     youtube: "GenyxisZ_.",
-    discord: "genexisz_."
+    discord: "genyxisz_."
     x: "@GenyxisZ_."
   }
 }
 
 console.log(Profile)
 ```
-##### 🥕 > Youtube; <a href="https://www.youtube.com/@Genyxisz" target="_blank" rel="noreferrer">GenyxisZ\_.</a>, 💚 > Github; <a href="https://github.com/genexisz" target="_blank" rel="noreferrer">GenyxisZ\_.</a>, 🐇 > X; <a href="https://x.com/GenyxisZ_" target="_blank" rel="noreferrer">@GenexisZ\_.</a>,
+##### 🥕 > Youtube; <a href="https://www.youtube.com/@Genyxisz" target="_blank" rel="noreferrer">GenyxisZ\_.</a>, 💚 > Github; <a href="https://github.com/genexisz" target="_blank" rel="noreferrer">GenyxisZ\_.</a>, 🐇 > X; <a href="https://x.com/GenyxisZ_" target="_blank" rel="noreferrer">@GenyxisZ\_.</a>,
 <a href="https://www.github.com/genyxisz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/genyxisz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
      <a href="https://www.x.com/GenyxisZ_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/GenyxisZ_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 ### 🐇 </ Activity >
