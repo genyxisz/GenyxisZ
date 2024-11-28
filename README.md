@@ -1,16 +1,24 @@
-## Hi there 👋
+## Greeting👋, I'm Hex.
 
-<!--
-**genyxisz/GenyxisZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🥕 </ Profile >
+```lua
+const Profile = {
+  aboutme: {
+    name: ["Hex", "Jnezyzn._"],
+    age: 16,
+    ability: ["lua", "java", "html", "python"] 
+  },
+  contact: {
+    youtube: "Jnezyzn._",
+    discord: "jnezyzn._"
+    x: "@Jnezyzn_"
+  }
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(Profile)
+```
+##### 🥕 > Youtube; <a href="https://www.youtube.com/@Genyxisz" target="_blank" rel="noreferrer">GenyxisZ\_.</a>, 💚 > Github; <a href="https://github.com/genexisz" target="_blank" rel="noreferrer">GenyxisZ\_.</a>, 🐇 > X; <a href="https://x.com/GenyxisZ_" target="_blank" rel="noreferrer">@GenexisZ\_.</a>,
+<a href="https://www.github.com/genyxisz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/genyxisz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+     <a href="https://www.x.com/GenyxisZ_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/GenyxisZ_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+### 🐇 </ Activity >
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1303189099859017752?theme=light&bg=fad3d3&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1303189099859017752)
